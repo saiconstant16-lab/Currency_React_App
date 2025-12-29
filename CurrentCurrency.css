@@ -1,0 +1,50 @@
+.Main_Currency
+{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+background: #e0f2fe;   /* light sky blue */
+    height: 100vh;
+}
+.Converter
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap:20px;
+}
+button
+{
+    color: aliceblue;
+}
+.btn-exchange
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+
+}
+.select{
+    width: 75px;
+    height: 30px;
+}
+
+.inside_main
+{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    background: cornflowerblue;
+        width: 385px;
+    height: 300px;
+
+}
+.text{
+        width: 160px;
+    height: 20px;
+}
