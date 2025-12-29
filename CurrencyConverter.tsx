@@ -9,7 +9,7 @@ const CurrencyConverter = () => {
   const [result, useResult] = useState("");
 
   const values = {
-    INR: 1, // Indian Rupee (base)
+    INR: 1, 
     USD: 89.8, // US Dollar
     JPY: 0.57, // Japanese Yen
     EUR: 97.2, // Euro
