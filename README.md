@@ -1,4 +1,3 @@
-<img width="1916" height="741" alt="image" src="https://github.com/user-attachments/assets/ef523aff-1a06-41ab-9ff6-dc0e8a6bd11d" /># Currency Converter (React + TypeScript)
 
 A simple currency converter component built using React and TypeScript.
 
